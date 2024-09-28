@@ -3,10 +3,7 @@
   line-height: 1.5;
   font-weight: 400;
  
-  background-image: url(images/background.jpg);
-  background-position: center;
-  background-attachment: fixed;
-  background-size: cover;
+
 
   font-synthesis: none;
   text-rendering: optimizeLegibility;
@@ -29,6 +26,12 @@ body {
   place-items: center;
   min-width: 320px;
   min-height: 100vh;
+  
+  background-image: url(images/background.jpg);
+  background-position: center;
+  background-attachment: fixed;
+  background-size: cover;
+
 }
 
 h1 {
