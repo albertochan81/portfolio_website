@@ -9,9 +9,11 @@
   -moz-osx-font-smoothing: grayscale;
   
   background-image: url(./images/background.jpg);
-  background-position: center;
-  background-attachment: fixed;
+  background-color: aquamarine;
   background-size: cover;
+  /*background-position: center;
+  background-attachment: fixed;
+  */
 }
 
 a {
@@ -40,12 +42,12 @@ h1 {
 
 button {
   border-radius: 8px;
-  border: 1px solid transparent;
+  border: 1px solid black;
   padding: 0.6em 1.2em;
   font-size: 1em;
   font-weight: 500;
   font-family: inherit;
-  background-color: #1a1a1a;
+  background-color: #f8f8f8;
   cursor: pointer;
   transition: border-color 0.25s;
 }
