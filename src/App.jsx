@@ -1,6 +1,7 @@
 import { useState } from 'react'
 import reactLogo from './assets/react.svg'
 import viteLogo from '/vite.svg'
+import background from '/public/images/background.jpg'
 import './App.css'
 
 function App() {
@@ -15,6 +16,9 @@ function App() {
         <a href="https://react.dev" target="_blank">
           <img src={reactLogo} className="logo react" alt="React logo" />
         </a>
+        <h3> Image
+          <img src={background} height={150} width={150}/>
+        </h3>
       </div>
       <h1>Alberto Chan Liu</h1>
       <h2>Computer Science Graduate</h2>
