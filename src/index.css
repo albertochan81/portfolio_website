@@ -7,6 +7,11 @@
   text-rendering: optimizeLegibility;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  
+  background-image: url(./images/background.jpg);
+  background-position: center;
+  background-attachment: fixed;
+  background-size: cover;
 }
 
 a {
@@ -25,10 +30,6 @@ body {
   min-width: 320px;
   min-height: 100vh;
   
-  background-image: url(./images/background.jpg);
-  background-position: center;
-  background-attachment: fixed;
-  background-size: cover;
 
 }
 
