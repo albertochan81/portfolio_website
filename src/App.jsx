@@ -3,8 +3,9 @@ import 'bootstrap/dist/css/bootstrap.min.css'
 import Container from 'react-bootstrap/Container'
 import Row from 'react-bootstrap/Row'
 import Col from 'react-bootstrap/Col'
-import Image from 'react-bootstrap/Image';
-/*import background from '/public/images/background.jpg'*/
+/*import Image from 'react-bootstrap/Image';
+import background from '/public/images/background.jpg'*/
+import { Image } from '@aws-amplify/ui-react';
 import reactLogo from './assets/react.svg'
 import viteLogo from '/vite.svg'
 import './App.css'
