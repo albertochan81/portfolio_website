@@ -1,5 +1,5 @@
 import { useState } from 'react'
-import 'bootstrap/dist/css/bootstrap.min.css'
+/*import 'bootstrap/dist/css/bootstrap.min.css'*/
 import Container from 'react-bootstrap/Container'
 import Row from 'react-bootstrap/Row'
 import Col from 'react-bootstrap/Col'
@@ -51,7 +51,7 @@ function App() {
       
       </Row>
       <Row>
-      <Image alt="Background" src= '/public/images/background.jpg' objectFit="initial"
+      <Image alt="Background" src= 'https://github.com/albertochan81/staticwebsite/blob/main/public/Images/background.jpg?raw=true' objectFit="initial"
         objectPosition="50% 50%"
         backgroundColor="initial"
         height="75%"
