@@ -4,7 +4,7 @@ import Container from 'react-bootstrap/Container'
 import Row from 'react-bootstrap/Row'
 import Col from 'react-bootstrap/Col'
 import Image from 'react-bootstrap/Image';
-import background from '/public/images/background.jpg'
+/*import background from '/public/images/background.jpg'*/
 import reactLogo from './assets/react.svg'
 import viteLogo from '/vite.svg'
 import './App.css'
@@ -49,8 +49,19 @@ function App() {
       
       </Row>
       <Row>
-      <Image src= {background} fluid />
+      <Image alt="Background" src= '/public/images/background.jpg' objectFit="initial"
+        objectPosition="50% 50%"
+        backgroundColor="initial"
+        height="75%"
+        width="75%"
+        opacity="100%" />
       </Row>
+      <Image alt="Background" src= '/public/images/background.png' objectFit="initial"
+        objectPosition="50% 50%"
+        backgroundColor="initial"
+        height="75%"
+        width="75%"
+        opacity="100%" />
       </Container>
     </>
   )
