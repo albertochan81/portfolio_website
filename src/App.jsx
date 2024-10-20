@@ -6,7 +6,7 @@ import './App.css'
 import { NavLink, Navbar } from 'react-bootstrap';
 import Hamburger from 'hamburger-react';
 
-//import { Link } from "react-router-dom";
+///import { Link } from "react-router-dom";
 //import { Route, Switch } from "react-router-dom";
 
 import Home from "./components/Home.jsx";
