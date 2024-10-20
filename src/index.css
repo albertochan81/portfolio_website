@@ -26,15 +26,21 @@ body {
   min-width: 320px;
   min-height: 100vh;
   
-  background-image: url(./public/images/background.jpg);
+  background-image: url('https://github.com/albertochan81/staticwebsite/blob/main/public/Images/background.jpg?raw=true');
   background-color: aquamarine;
   background-size: cover;
-  /*background-position: center;
+  background-position: center;
   background-attachment: fixed;
-  */
+  
 
 
   
+}
+
+img {
+  border-radius: 50%;
+  height:30%;
+  width:30%;
 }
 
 h1 {
