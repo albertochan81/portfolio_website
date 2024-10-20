@@ -6,7 +6,7 @@ import './App.css'
 import { NavLink, Navbar } from 'react-bootstrap';
 import Hamburger from 'hamburger-react';
 
-import { Link } from "react-router-dom";
+///import { Link } from "react-router-dom";
 //import { Route, Switch } from "react-router-dom";
 
 import Home from "./components/Home.jsx";
@@ -27,7 +27,7 @@ function App() {
       
       <div>
       <Row>
-        <img src= '/public/images/profile_pic4.heic'/>
+        <img src= 'https://raw.githubusercontent.com/albertochan81/staticwebsite/refs/heads/main/public/Images/profile_pic3.HEIC'/>
       </Row>
       </div>
      

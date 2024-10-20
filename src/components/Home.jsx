@@ -21,7 +21,7 @@ const Home = () => {
         
         <div>
         <Row>
-          <img src= '/public/images/profile_pic4.heic'/>
+          <img src= '/public/imhttps://raw.githubusercontent.com/albertochan81/staticwebsite/refs/heads/main/public/Images/profile_pic3.HEICages/profile_pic4.heic'/>
         </Row>
         </div>
        
