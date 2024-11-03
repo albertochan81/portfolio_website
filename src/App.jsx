@@ -1,16 +1,35 @@
-import { useState } from 'react'
+/*import { useState } from 'react'
 import Container from 'react-bootstrap/Container'
 import Row from 'react-bootstrap/Row'
 import '@aws-amplify/ui-react/styles.css';
 import './App.css'
 import { NavLink, Navbar } from 'react-bootstrap';
 import Hamburger from 'hamburger-react';
-
+*/
 ///import { Link } from "react-router-dom";
 //import { Route, Switch } from "react-router-dom";
 
+import ReactDOM from "react-dom/client";
+import { BrowserRouter, Routes, Route } from "react-router-dom";
 import Home from "./components/Home.jsx";
+import Layout from "./components/Layout.jsx";
 
+export default function App() {
+  return (
+    <BrowserRouter>
+      <Routes>
+        <Route path="/" element={<Home />}>
+         
+        </Route>
+      </Routes>
+    </BrowserRouter>
+  );
+}
+//const root = ReactDOM.createRoot(document.getElementById('root'));
+//root.render(<App />);
+
+
+/*
 function App() {
   const [count, setCount] = useState(0)
   const [isOpen, setOpen] = useState(false)
@@ -53,3 +72,4 @@ function App() {
 }
 
 export default App
+*/

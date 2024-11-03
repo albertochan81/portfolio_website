@@ -11,32 +11,30 @@ const Home = () => {
     const [isOpen, setOpen] = useState(false)
   
     return (
-      <><Container>
-        <Row>
+      <><Container >
+        <Row >
       
-        <Navbar>
-         
-          <Hamburger toggled={isOpen} toggle={setOpen} />
-        </Navbar>
+          <Navbar>
+          
+            <Hamburger toggled={isOpen} toggle={setOpen} />
+          </Navbar>
+          <body>
+          <div>
+            <Row>
+              <img src= 'https://raw.githubusercontent.com/albertochan81/staticwebsite/refs/heads/main/public/Images/profile_pic4.HEIC'/>
+            </Row>
+          </div>
         
-        <div>
-        <Row>
-          <img src= '/public/imhttps://raw.githubusercontent.com/albertochan81/staticwebsite/refs/heads/main/public/Images/profile_pic3.HEICages/profile_pic4.heic'/>
-        </Row>
-        </div>
-       
-        <h1>Alberto Chan Liu</h1>
-        <h2>Computer Science Graduate</h2>
-        <div className="card">
-          <button onClick={() => setCount((count) => count + 2)}>
-            count is {count}
-          </button>
-       
-        </div>
-        <p className="read-the-docs">
-          Click on the Vite and React logos to learn more
-        </p>
+          <h1>Alberto Chan Liu</h1>
+          <h2>Computer Science Graduate</h2>
+          <div className="card">
+            <button onClick={() => setCount((count) => count + 2)}>
+              count is {count}
+            </button>
         
+          </div>
+          </body>
+          
         </Row>
         
         </Container>
