@@ -13,13 +13,14 @@ const Home = () => {
     return (
       <><Container >
         <Row >
-      
-          <Navbar>
-          
-            <Hamburger toggled={isOpen} toggle={setOpen} />
-          </Navbar>
           <body>
           <div>
+
+            <p>
+              <b>Website in progress</b>
+            </p>
+            <br/>
+          
             <Row>
               <img src= 'https://raw.githubusercontent.com/albertochan81/staticwebsite/refs/heads/main/public/Images/profile_pic4.HEIC'/>
             </Row>
@@ -27,12 +28,16 @@ const Home = () => {
         
           <h1>Alberto Chan Liu</h1>
           <h2>Computer Science Graduate</h2>
-          <div className="card">
-            <button onClick={() => setCount((count) => count + 2)}>
-              count is {count}
-            </button>
-        
-          </div>
+          <br/><br/>
+
+
+
+
+      
+          {/* <h3> Resume</h3> */}
+
+
+
           </body>
           
         </Row>
