@@ -1,5 +1,5 @@
 import { useState } from 'react'
-import { Navbar } from 'react-bootstrap';
+//import { Navbar } from 'react-bootstrap';
 import Hamburger from 'hamburger-react';
 
 
@@ -13,8 +13,8 @@ import Hamburger from 'hamburger-react';
   
 return (
 
-      <Navbar>
-      
+      // <Navbar>
+      <div>
         <Hamburger toggled={isOpen} toggle={handleToggle} />
         {isOpen &&(
           <div className='navContainer'>
@@ -26,7 +26,8 @@ return (
             </ul>
           </div>
         )}
-      </Navbar>
+        </div>
+      // </Navbar>
 
     )
     }
