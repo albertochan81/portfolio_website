@@ -58,13 +58,18 @@ h1 {
 }
 
 hr {
-  width: 80%; 
+  width: 90%; 
   margin: 20px 0; /* Optional: adds space around the line */
   border-top: 2px solid #000; 
   margin-left: auto;
   margin-right: auto;
 }
 
+.left-center {
+  margin-left: 6vw;
+  margin-right: 6vw;
+  text-align: justify;
+}
 
 button {
   border-radius: 8px;
