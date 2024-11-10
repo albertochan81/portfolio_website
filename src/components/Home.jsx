@@ -31,7 +31,7 @@ const Home = () => {
 
             <section>
                 <h2>Education</h2>
-                <p><strong>Hunter College, New York, NY</strong> — Bachelor in Computer Science<br/><strong>Graduated:</strong>  June 2023</p>
+                <p><strong>Hunter College of CUNY, New York, NY</strong> — Bachelor in Computer Science<br/><strong>Graduated:</strong>  June 2023</p>
                 <p><strong>Coursework:</strong> Data Structures, Database, Web Development, Operating Systems, VR/AR and Mixed Reality, Statistics</p>
             </section>
 
@@ -90,15 +90,15 @@ const Home = () => {
 
                 <h3>Hunger Box (May 2023)</h3>
                 <p><strong>Technologies:</strong> Flutter, Dart, Firebase</p>
-                <p>Food Ordering App tailored for Hunter College Students. Implemented the frontend of menu items and analytics screen, as well as the analytics backend.</p>
+                <p className='left-center'>Food Ordering App tailored for Hunter College Students. Implemented the frontend of menu items and analytics screen, as well as the analytics backend.</p>
 
                 <h3>Employee Manager (May 2023)</h3>
                 <p><strong>Technologies:</strong> JavaScript, CSS, HTML, Node.js, PostgreSQL, Heroku</p>
-                <p>React Employee management web application. Programmed a CRUD employee management site with a team of 3. Worked on the backend using PostgreSQL to update the database. Contributed to the frontend to create a pleasant interaction between users and functionality of the program.</p>
+                <p className='left-center'>React Employee management web application. Programmed a CRUD employee management site with a team of 3. Worked on the backend using PostgreSQL to update the database. Contributed to the frontend to create a pleasant interaction between users and functionality of the program.</p>
 
                 <h3>Obstacle Course (September 2021)</h3>
                 <p><strong>Technologies:</strong> Unity, C#, Meta Quest 2</p>
-                <p>Virtual Reality game for Meta Quest 2 users. Led a team of 3 to create a virtual reality obstacle course game playable on Quest 2. Programmed and implemented the first level that served as the base level for the rest. Implemented player interaction with environment/objects and sound/music effects.</p>
+                <p className='left-center'>Virtual Reality game for Meta Quest 2 users. Led a team of 3 to create a virtual reality obstacle course game playable on Quest 2. Programmed and implemented the first level that served as the base level for the rest. Implemented player interaction with environment/objects and sound/music effects.</p>
             </section>
 
 
