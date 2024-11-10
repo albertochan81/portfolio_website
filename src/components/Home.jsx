@@ -18,7 +18,7 @@ const Home = () => {
             <br/>
           
             <Row>
-              <img src= 'https://raw.githubusercontent.com/albertochan81/staticwebsite/refs/heads/main/public/Images/profile_pic4.HEIC'/>
+              <img src= 'https://raw.githubusercontent.com/albertochan81/portfolio_website/refs/heads/main/public/Images/profile_pic4.HEIC'/>
             </Row>
           </div>
         
