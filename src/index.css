@@ -40,8 +40,8 @@ body {
 
 img {
   border-radius: 50%;
-  height:30%;
-  width:30%;
+  height:40%;
+  width:40%;
 }
 
 ul {
@@ -55,6 +55,7 @@ ul {
 h1 {
   font-size: 3.2em;
   line-height: 1.1;
+  
 }
 
 hr {
