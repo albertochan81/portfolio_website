@@ -109,6 +109,7 @@ button:focus-visible {
   background-color: rgba(255, 253, 253, 0.503);
   padding:3%;
   border-radius: 10px;
+  margin: auto;
   
 }
 
