@@ -1,4 +1,5 @@
 import { useState } from 'react'
+import { Link } from "react-router-dom";
 //import { Navbar } from 'react-bootstrap';
 import Hamburger from 'hamburger-react';
 
@@ -19,17 +20,16 @@ return (
         {isOpen &&(
           <div className='navContainer'>
             <ul className='nav' >
-              <li>Home</li>
-              <li>About me</li>
-              <li>Resume</li>
-              <li>Contact</li>
+              <li><Link to="/" onClick={handleToggle}>Home</Link></li>
+              <li><Link to="/resume" onClick={handleToggle}>Resume</Link></li>
+              <li><Link to="/contact" onClick={handleToggle}>Contact</Link></li>
+              <li><Link to="/projects" onClick={handleToggle}>Projects</Link></li>
             </ul>
           </div>
         )}
         </div>
       // </Navbar>
-
-    )
+      );
     }
   
   export default Nav
