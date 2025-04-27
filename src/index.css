@@ -6,7 +6,7 @@
   text-rendering: optimizeLegibility;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  background-image: url('/images/blue_background.jpg');
+  background-image: url('https://raw.githubusercontent.com/albertochan81/portfolio_website/refs/heads/main/public/Images/blue_background.jpg');
   background-color: rgb(221, 221, 221);
   background-size: cover;
   background-position: center;
