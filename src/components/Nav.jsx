@@ -15,7 +15,7 @@ return (
         <Hamburger toggled={isOpen} toggle={handleToggle} />
         {isOpen &&(
           <div>
-            <ul className='nav' >
+            <ul className='nav a' >
               <li><Link to="/" onClick={handleToggle}>Home</Link></li>
               <li><Link to="/resume" onClick={handleToggle}>Resume</Link></li>
               <li><Link to="/contact" onClick={handleToggle}>Contact</Link></li>
