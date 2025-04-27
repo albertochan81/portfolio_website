@@ -14,7 +14,8 @@ function HungerBox(){
         <br/> <br/>
         <p>Vendor's earnings analytics page</p>
         <video className="responsive-video" src="https://github.com/albertochan81/portfolio_website/raw/refs/heads/main/public/videos/AnalyticsScreen.mp4" controls> Your browser does not support the video tag.</video>
-
+        <br/>
+        <h4>Special thanks to: Shezan, Nahin, Parsha, Ana and Andrew for making this project possible</h4>
     </body>
   )
 }
