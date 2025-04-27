@@ -17,7 +17,7 @@ function Projects(){
                 <p>(Group project)</p>
                 <p><strong>Technologies:</strong> Flutter, Dart, Firebase</p>
                 <p className='left-center'>Food Ordering App tailored for Hunter College Students. Implemented the frontend of menu items and analytics screen, as well as the analytics backend.</p>
-                <Link to="HungerBox"> App demo video</Link>
+                <strong><Link to="HungerBox"> App demo video</Link></strong>
                 <hr/>
 
                 <h3>Employee Manager (May 2023)</h3>
@@ -28,7 +28,7 @@ function Projects(){
                 <h3>Obstacle Course (September 2021)</h3>
                 <p><strong>Technologies:</strong> Unity, C#, Meta Quest 2</p>
                 <p className='left-center'>Virtual Reality game for Meta Quest 2 users. Led a team of 3 to create a virtual reality obstacle course game playable on Quest 2. Programmed and implemented the first level that served as the base level for the rest. Implemented player interaction with environment/objects and sound/music effects.</p>
-                <Link to="ObstacleCourse"> Gameplay video</Link>
+                <strong><Link to="ObstacleCourse"> Gameplay video</Link></strong>
 
             </section>
 
