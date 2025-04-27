@@ -6,15 +6,19 @@ function Resume() {
   return(
   <body>
   <Nav />
-  <br></br>
-   <h1>Alberto's Resume</h1>
-   <br></br>
-   <Container className='resume'>
+    <br/>
+    <h1>Alberto's Resume</h1>
+    <br/><br/>
+    <Container className='resume'>
 
             <section>
                 <h2>Education</h2>
                 <p><strong>Hunter College of CUNY, New York, NY</strong> — Bachelor in Computer Science<br/><strong>Graduated:</strong>  June 2023</p>
                 <p><strong>Coursework:</strong> Data Structures, Database, Web Development, Operating Systems, VR/AR and Mixed Reality, Statistics</p>
+                <br/>
+                <p><strong>Kingsborough Community College, Brooklyn, NY</strong> — Associate of Science in Computer Science<br/><strong></strong>Graduated: January 2021</p>
+                <p><strong>Coursework:</strong> Intro to Programming, Computer Architecture, Discrete Math, Calculus, Assembly Language</p>
+           
             </section>
 
             <hr/>

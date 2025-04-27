@@ -6,9 +6,15 @@ import Contact from "./components/Contact.jsx";
 import Projects from "./components/Projects.jsx";
 import ObstacleCourse from "./components/ObstacleCourse.jsx";
 import HungerBox from "./components/HungerBox.jsx";
-
+import React, { useEffect } from "react";
+import ReactGA from "react-ga4";
 
 export default function App() {
+  useEffect(() => {
+    ReactGA.initialize("G-XC21L6FTP3"); // Replace with your Measurement ID
+    ReactGA.send("pageview");
+  }, []);
+
   return (
     <BrowserRouter>
       <Routes>

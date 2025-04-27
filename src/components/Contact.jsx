@@ -10,8 +10,7 @@ function Contact(){
     <h1>Contact Alberto</h1>
     <br></br>
  
-          <section class="resume">
-              <h2>Contact Information</h2>
+          <section class="about-section">
               <p>If you would like to get in touch, feel free to reach out to me through the following methods:</p>
               <ul>
                   <li><strong>Phone:</strong> (646) 853-9674</li>
