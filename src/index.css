@@ -71,12 +71,10 @@ ul {
   padding-left: 35px;
 }
 
-
 h1 {
-  font-size: 50px;
+  font-size: 8vh;
   line-height: 1.1;
   text-shadow: 2px 2px 6px rgba(0, 0, 0, 0.5);
-  
 }
 
 hr {
