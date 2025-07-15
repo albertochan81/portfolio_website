@@ -13,6 +13,9 @@ function Home () {
         <Nav />
         <Row >
           <body>
+            <head>
+              <link rel="icon" type="image/png" href='/favicon.png'/>
+            </head>
           <div>
             <br/> <br/>          
             <Row>
