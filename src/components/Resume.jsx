@@ -16,7 +16,7 @@ function Resume() {
                 <p><strong>Hunter College of CUNY, New York, NY</strong> — Bachelor in Computer Science<br/><strong>Graduated:</strong>  June 2023</p>
                 <p><strong>Coursework:</strong> Data Structures, Database, Web Development, Operating Systems, VR/AR and Mixed Reality, Statistics</p>
                 <br/>
-                <p><strong>Kingsborough Community College, Brooklyn, NY</strong> — Associate of Science in Computer Science<br/><strong></strong>Graduated: January 2021</p>
+                <p><strong>Kingsborough Community College, Brooklyn, NY</strong> — Associate of Science in Computer Science<br/><strong>Graduated:</strong> January 2021</p>
                 <p><strong>Coursework:</strong> Intro to Programming, Computer Architecture, Discrete Math, Calculus, Assembly Language</p>
            
             </section>
@@ -26,12 +26,11 @@ function Resume() {
             <section>
                 <h2>Skills</h2>
                 <ul>
-                    <li><strong>Operating Systems:</strong> Windows, Linux, macOS</li>
-                    <li><strong>Hardware Troubleshooting:</strong> CompTIA A+ Certification (In Progress)</li>
-                    <li><strong>Networking Basics:</strong> CompTIA A+ Certification (Network troubleshooting, basic IP configuration in Progress)</li>
-                    <li><strong>Programming Languages:</strong> C++, Java, Dart, Scala</li>
-                    <li><strong>Web Technologies:</strong> JavaScript, HTML, CSS</li>
-                    <li><strong>Database Management:</strong> SQL, NoSQL</li>
+                    <li><strong>IT & Troubleshooting:</strong> Windows, Linux, macOS | Hardware Diagnostics | Basic Networking | IT Support.</li>
+                    <li><strong>Programming Languages:</strong> C++, Java, Dart, Scala.</li>
+                    <li><strong>Web Technologies:</strong> JavaScript, HTML, CSS, React.</li>
+                    <li><strong>Database Management:</strong> SQL, NoSQL (Firebase)</li>
+                    <li><strong>Tools & Platforms:</strong> Git, AWS Amplify, Firebase, Unity, Cin7, Microsoft Office Suite.</li> 
                 </ul>
             </section>
 
@@ -40,7 +39,8 @@ function Resume() {
             <section>
                 <h2>Certifications</h2>
                 <p><strong>AWS Cloud Practitioner Certification</strong> (Expires March 2027)</p>
-                <p><strong>CompTIA A+ Certification </strong>- In Progress </p>
+                <p><strong>CompTIA A+ Core 1 </strong></p>
+                <p><strong>CompTIA A+ Core 2 </strong>- In Progress </p>
             </section>
 
             <hr/>
