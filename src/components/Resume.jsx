@@ -13,12 +13,15 @@ function Resume() {
 
             <section>
                 <h2>Education</h2>
-                <p><strong>Hunter College of CUNY, New York, NY</strong> — Bachelor in Computer Science<br/><strong>Graduated:</strong>  June 2023</p>
-                <p><strong>Coursework:</strong> Data Structures, Database, Web Development, Operating Systems, VR/AR and Mixed Reality, Statistics</p>
-                <br/>
-                <p><strong>Kingsborough Community College, Brooklyn, NY</strong> — Associate of Science in Computer Science<br/><strong>Graduated:</strong> January 2021</p>
-                <p><strong>Coursework:</strong> Intro to Programming, Computer Architecture, Discrete Math, Calculus, Assembly Language</p>
-           
+                <ul>
+                    <li><p><strong>Hunter College of CUNY, New York, NY</strong> — Bachelor in Computer Science <br/>
+                    <strong>&#x1F393;Graduated:</strong>  June 2023 </p>
+                    <p><strong>Coursework:</strong> Data Structures, Database, Web Development, Operating Systems, VR/AR and Mixed Reality, Statistics</p>
+                    <br/></li>
+                    <li><p><strong>Kingsborough Community College, Brooklyn, NY</strong> — Associate of Science in Computer Science<br/>
+                    <strong>&#x1F393; Graduated:</strong> January 2021</p>
+                    <p><strong>Coursework:</strong> Intro to Programming, Computer Architecture, Discrete Math, Calculus, Assembly Language</p></li>
+                </ul>
             </section>
 
             <hr/>
@@ -26,7 +29,8 @@ function Resume() {
             <section>
                 <h2>Skills</h2>
                 <ul>
-                    <li><strong>IT & Troubleshooting:</strong> Windows, Linux, macOS | Hardware Diagnostics | Basic Networking | IT Support.</li>
+                    <li><strong>IT Support and Hardware Troubleshooting:</strong> Windows, Linux, macOS | Hardware Diagnostics | CompTIA A+ Certified; skilled in diagnosing hardware issues, resolving system errors, and maintaining end-user devices.</li>
+                    <li><strong>Networking Fundamentals:</strong> Knowledge of IP addressing, subnetting, and basic network troubleshooting</li>
                     <li><strong>Programming Languages:</strong> C++, Java, Dart, Scala.</li>
                     <li><strong>Web Technologies:</strong> JavaScript, HTML, CSS, React.</li>
                     <li><strong>Database Management:</strong> SQL, NoSQL (Firebase)</li>
@@ -38,9 +42,14 @@ function Resume() {
 
             <section>
                 <h2>Certifications</h2>
-                <p><strong>AWS Cloud Practitioner Certification</strong> (Expires March 2027)</p>
-                <p><strong>CompTIA A+ Core 1 </strong></p>
-                <p><strong>CompTIA A+ Core 2 </strong>- In Progress </p>
+                <ul>
+                    <a href="https://www.credly.com/earner/earned/badge/b46d4159-0416-4411-97f4-33ddfb8b24de">
+                    <p className="logoText"><img className='logo'  src= '/images/AWSlogo.png'/> 
+                    <strong>  AWS Cloud Practitioner Certification</strong> </p></a>
+                    <a href="https://www.credly.com/earner/earned/badge/00abdbe2-7384-4082-9eeb-31c476047843">
+                    <p className="logoText"><img className='logo' src= '/images/A+.svg'/> 
+                    <strong>  CompTIA A+ Certification</strong></p></a>
+                </ul>
             </section>
 
             <hr/>
@@ -64,7 +73,7 @@ function Resume() {
                         <li><strong>Utilized Technology:</strong> Leverage FedEx software technology to organize and optimize delivery routes efficiently and in a timely manner.</li>
                         <li><strong>Customer Interaction:</strong> Provide excellent customer service, addressing inquiries by paying attention to details and ensuring accurate and secure handling of packages.</li>
                         <li><strong>Problem Solving:</strong> Identify and resolve delivery issues, such as incorrect addresses or package discrepancies, enhancing overall efficiency.</li>
-                        <li><strong>Achievements:</strong> Achieved “Employee of the Month” Award within the first 3 months of employment.</li>
+                        <li><strong>Achievements:</strong>  Achieved “Employee of the Month” Award twice the first year of employment..</li>
                     </ul>
                 
             </section>
