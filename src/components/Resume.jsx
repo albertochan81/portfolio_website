@@ -44,10 +44,10 @@ function Resume() {
                 <h2>Certifications</h2>
                 <ul>
                     <a href="https://www.credly.com/earner/earned/badge/b46d4159-0416-4411-97f4-33ddfb8b24de">
-                    <p className="logoText"><img className='logo'  src= '/images/AWSlogo.png'/> 
+                    <p className="logoText"><img className='logo'  src= 'https://github.com/albertochan81/portfolio_website/blob/main/public/Images/AWSlogo.png?raw=true'/> 
                     <strong>  AWS Cloud Practitioner Certification</strong> </p></a>
                     <a href="https://www.credly.com/earner/earned/badge/00abdbe2-7384-4082-9eeb-31c476047843">
-                    <p className="logoText"><img className='logo' src= '/images/A+.svg'/> 
+                    <p className="logoText"><img className='logo' src= 'https://raw.githubusercontent.com/albertochan81/portfolio_website/85feac7504ffd5a21936a985e342d3629052368e/public/Images/A+.svg'/> 
                     <strong>  CompTIA A+ Certification</strong></p></a>
                 </ul>
             </section>
