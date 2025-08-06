@@ -57,24 +57,37 @@ function Resume() {
             <section>
                 <h2>Employment History</h2>
 
-                <h3>Inventory Manager - Gigi Beauty Supply</h3>
-                <p><strong>Location:</strong> 145 58th St Brooklyn, NY<br/><strong>November 2016 - December 2022</strong></p>
-                    <ul>
-                
-                        <li><strong>Inventory Management:</strong> Leveraged Cin 7 cloud system and Excel to maintain inventory accuracy of 90% across three store branches.</li>
-                        <li><strong>Quality Control:</strong> Oversaw quality control processes and outbound shipments of the company’s Amazon FBA inventory, ensuring timely and accurate delivery.</li>
-                        <li><strong>Optimization:</strong> Achieved inventory optimization by reducing excess inventory by 20%.</li>
-                    </ul><br/>
-                
-                    <h3>Courier - FedEx Express</h3>
-                    <p><strong>Location:</strong> 58-60 55th Dr, Maspeth, NY <br/><strong>March 2024 - Present</strong></p>
+                    
+                    <h3>Airport Systems Support Technician - ServiceTec International Inc.</h3>
+                    <p><strong>Location:</strong> JFK Airport, Jamaica, NY <br/><strong>July 2025 - Present</strong></p>
 
                     <ul>
-                        <li><strong>Utilized Technology:</strong> Leverage FedEx software technology to organize and optimize delivery routes efficiently and in a timely manner.</li>
-                        <li><strong>Customer Interaction:</strong> Provide excellent customer service, addressing inquiries by paying attention to details and ensuring accurate and secure handling of packages.</li>
-                        <li><strong>Problem Solving:</strong> Identify and resolve delivery issues, such as incorrect addresses or package discrepancies, enhancing overall efficiency.</li>
-                        <li><strong>Achievements:</strong>  Achieved “Employee of the Month” Award twice the first year of employment..</li>
+                        <li>Provide front-line technical support for airport IT systems including common-use platforms (CUTE/CUPPS), flight information display systems (FIDS), kiosks, and other passenger-facing technologies.</li>
+                        <li>Troubleshoot hardware and software issues across a range of devices, including workstations, printers, scanners, servers, and network components.</li>
+                        <li>Configure, install, and upgrade hardware and software in accordance with airport IT policies and security protocols.</li>
+                        <li>Respond to and resolve technical issues in a timely manner, often under high-pressure operational scenarios.</li>
+                        <li>Maintain accurate documentation of support activities, incidents, asset inventory, and system configurations.</li>
                     </ul>
+
+                    <h3>Courier - FedEx Express</h3>
+                    <p><strong>Location:</strong> Maspeth, NY <br/><strong>March 2024 - July 2025</strong></p>
+
+                    <ul>
+                        <li>Leverage FedEx software technology to organize and optimize delivery routes efficiently and in a timely manner.</li>
+                        <li>Provide excellent customer service, addressing inquiries by paying attention to details and ensuring accurate and secure handling of packages.</li>
+                        <li>Identify and resolve delivery issues, such as incorrect addresses or package discrepancies, enhancing overall efficiency.</li>
+                        <li>Achieved “Employee of the Month” Award twice the first year of employment..</li>
+                    </ul>
+
+                    <h3>Inventory Manager - Gigi Beauty Supply</h3>
+                    <p><strong>Location:</strong> Brooklyn, NY <br/><strong>November 2016 - December 2022</strong></p>
+                    <ul>
+                
+                        <li>Leveraged Cin 7 cloud system and Excel to maintain inventory accuracy of 90% across three store branches.</li>
+                        <li>versaw quality control processes and outbound shipments of the company’s Amazon FBA inventory, ensuring timely and accurate delivery.</li>
+                        <li>Achieved inventory optimization by reducing excess inventory by 20%.</li>
+                    </ul><br/>
+                
                 
             </section>
 
