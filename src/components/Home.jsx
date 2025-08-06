@@ -19,7 +19,7 @@ function Home () {
           <div>
             <br/> <br/>          
             <Row>
-              <img className='profilePic' src= '../images/profile-pic.jpg'/>
+              <img className='profilePic' src= 'https://github.com/albertochan81/portfolio_website/blob/main/public/Images/profile-pic.jpg?raw=true'/>
             </Row>
           </div>
             <br/> 
@@ -28,10 +28,10 @@ function Home () {
             <br/>
 
           <div className='about-section'>
-            <h3>About Me</h3>
+            <h3  className='center'>About Me</h3>
                 <p>Hi, I’m Alberto Chan Liu, a Computer Science graduate with a passion for technology, problem-solving, and continuous learning. I was born and raised in Venezuela and later came to the United States to pursue my education and build a better future.</p>
 
-                <p>Before transitioning fully into tech, I worked as an inventory manager at a beauty supply warehouse, where I developed strong skills in organization, efficiency, and operations management. My diverse background has shaped my ability to approach challenges with creativity and practicality.</p>
+                <p>Before transitioning fully into tech, I worked as an inventory manager at a beauty supply warehouse, where I developed strong skills in organization, efficiency, and operations management. I also worked as a courier for FedEx Express, which taught me the importance of time management, reliability, and customer service under pressure.</p>
 
                 <p>I currently work as an Airport Systems Support Technician, where I provide front-line IT support for various airport technologies. This role has strengthened my technical troubleshooting skills and given me real-world experience with critical infrastructure systems.</p>
 
