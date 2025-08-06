@@ -58,8 +58,8 @@ body {
 
 .profilePic {
   border-radius: 50%;
-  height:40%;
-  width:40%;
+  height:35%;
+  width:35%;
   animation: float 3s ease-in-out infinite;
   box-shadow: 3px 3px 3px rgba(0, 0, 0, 0.5);
 }
