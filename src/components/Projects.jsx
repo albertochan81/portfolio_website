@@ -13,19 +13,24 @@ function Projects(){
 
     <section class="resume">
 
+                <h3>EmpMng  (September 2025)</h3>
+                <p><strong>Technologies:</strong> Python, Flask, DynamoDB, AWS S3, AWS Amplify, AWS Elastic Beanstalk</p>
+                <p>
+                  <strong>Employee Manager Full-Stack Web Application</strong> 
+                </p>
+                <p className="left-center">Full-stack web application that enables administrators to efficiently manage employee records. Users can add, edit, and delete employee information, including name, last name, position, salary, ID number, hire date, and profile image. The platform streamlines workforce management by combining secure data handling with a user-friendly interface, ensuring both functionality and ease of use.</p>
+                 <a href="https://empmng.com" target="_blank">Live Demo</a>
+                <hr/>
+
                 <h3>Hunger Box (May 2023)</h3>
                 <p>(Group project)</p>
                 <p><strong>Technologies:</strong> Flutter, Dart, Firebase</p>
-                <p className='left-center'>Food Ordering App tailored for Hunter College Students. Implemented the frontend of menu items and analytics screen, as well as the analytics backend.</p>
+                <p className='left-center'>Food ordering mobile app tailored for Hunter College Students designed to connect students with nearby campus vendors. Student users can create accounts to browse menus and place food orders, while vendor users can manage their storefronts by uploading images, editing menu details, and tracking performance through an integrated analytics dashboard that displays sales and other key data.</p>
                 <strong><Link to="HungerBox"> App demo video</Link></strong>
                 <hr/>
 
-                <h3>Employee Manager (May 2023)</h3>
-                <p><strong>Technologies:</strong> JavaScript, CSS, HTML, Node.js, PostgreSQL, Heroku</p>
-                <p className='left-center'>React Employee management web application. Programmed a CRUD employee management site with a team of 3. Worked on the backend using PostgreSQL to update the database. Contributed to the frontend to create a pleasant interaction between users and functionality of the program.</p>
-                <hr/> 
-
                 <h3>Obstacle Course (September 2021)</h3>
+                <p>(Group project)</p>
                 <p><strong>Technologies:</strong> Unity, C#, Meta Quest 2</p>
                 <p className='left-center'>Virtual Reality game for Meta Quest 2 users. Led a team of 3 to create a virtual reality obstacle course game playable on Quest 2. Programmed and implemented the first level that served as the base level for the rest. Implemented player interaction with environment/objects and sound/music effects.</p>
                 <strong><Link to="ObstacleCourse"> Gameplay video</Link></strong>

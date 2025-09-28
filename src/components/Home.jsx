@@ -24,7 +24,7 @@ function Home () {
           </div>
             <br/> 
             <h1>Alberto Chan Liu</h1>
-            <h2>Airport Systems Support Technician</h2>
+            <h2>IT Systems Technician</h2>
             <br/>
 
           <div className='about-section'>
