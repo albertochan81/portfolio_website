@@ -19,12 +19,12 @@ function Home () {
           <div>
             <br/> <br/>          
             <Row>
-              <img className='profilePic' src= 'https://github.com/albertochan81/portfolio_website/blob/main/public/Images/profile-pic.jpg?raw=true'/>
+              <img className='profilePic' src= '../images/profile1.jpg'/>
             </Row>
           </div>
             <br/> 
             <h1>Alberto Chan Liu</h1>
-            <h2>IT Systems Technician</h2>
+            <h2>IT Support Specialist</h2>
             <br/>
 
           <div className='about-section'>
