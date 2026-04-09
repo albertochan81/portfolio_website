@@ -61,20 +61,21 @@ function Resume() {
                     <p><strong>Location:</strong> JFK Airport, Jamaica, NY <br/><strong>July 2025 - Present</strong></p>
 
                     <ul>
-                        <li>Provide front-line technical support for airport IT systems including common-use platforms (CUTE/CUPPS), flight information display systems (FIDS), kiosks, and other passenger-facing technologies.</li> <br/>
-                        <li>Troubleshoot hardware and software issues across a range of devices, including workstations, printers, scanners, servers, and network components.</li> <br/>
+                        <li>Provide Tier 1/2 support for CUTE/CUPPS, FIDS, and kiosks; troubleshoot hardware, software, and network issues (TCP/IP, DNS, DHCP).</li> <br/>
+                        <li>Administer Active Directory (user accounts, device support) and maintain enterprise systems.</li> <br/>
                         <li>Configure, install, and upgrade hardware and software in accordance with airport IT policies and security protocols.</li> <br/>
-                        <li>Respond to and resolve technical issues in a timely manner, often under high-pressure operational scenarios.</li> <br/>
-                        <li>Maintain accurate documentation of support activities, incidents, asset inventory, and system configurations.</li>
+                        <li>Deploy and reimage Windows LTSC machines; perform patching, upgrades, and endpoint security management.</li> <br/>
+                        <li>Manage incidents in Remedyforce and collaborate with vendors and IT teams to meet SLAs.</li>
                     </ul>
                     <hr className="job-separator"/>
 
-                    <h3>Courier - FedEx Express</h3>
+                    <h3>Courier & Operations Support - FedEx Express</h3>
                     <p><strong>Location:</strong> Maspeth, NY <br/><strong>March 2024 - July 2025</strong></p>
 
                     <ul>
                         <li>Leverage FedEx software technology to organize and optimize delivery routes efficiently and in a timely manner.</li> <br/>
                         <li>Provide excellent customer service, addressing inquiries by paying attention to details and ensuring accurate and secure handling of packages.</li> <br/>
+                        <li>Troubleshot scanners, printers, and mobile devices; resolved operational and shipment processing issues.</li><br/>
                         <li>Identify and resolve delivery issues, such as incorrect addresses or package discrepancies, enhancing overall efficiency.</li> <br/>
                         <li>Achieved “Employee of the Month” award twice the first year of employment.</li>
                     </ul> 
@@ -84,7 +85,8 @@ function Resume() {
                     <p><strong>Location:</strong> Brooklyn, NY <br/><strong>November 2016 - December 2022</strong></p>
                     <ul>
                 
-                        <li>Leveraged Cin 7 cloud system and Excel to maintain inventory accuracy of 90% across three store branches.</li> <br/>
+                        <li>Managed Cin7 cloud system to maintain inventory accuracy of 90% across three store branches.</li> <br/>
+                        <li>Leveraged Microsoft 365 (Excel, Outlook, Teams) to automate reporting workflows and coordinate operations across departments.</li><br/>
                         <li>Oversaw quality control processes and outbound shipments of the company’s Amazon FBA inventory, ensuring timely and accurate delivery.</li> <br/>
                         <li>Achieved inventory optimization by reducing excess inventory by 20%.</li>
                     </ul><br/>
