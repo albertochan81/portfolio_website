@@ -19,7 +19,7 @@ function Home () {
           <div>
             <br/> <br/>          
             <Row>
-              <img className='profilePic' src= '../images/profile1.jpg'/>
+              <img className='profilePic' src= 'https://github.com/albertochan81/portfolio_website/blob/main/public/Images/profile1.jpg?raw=true'/>
             </Row>
           </div>
             <br/> 
