@@ -13,13 +13,15 @@ function Projects(){
 
     <section class="resume">
 
-                <h3>EmpMng  (September 2025)</h3>
+                <h3>EmpMng  (September 2025) Currently Offline</h3>
                 <p><strong>Technologies:</strong> Python, Flask, DynamoDB, AWS S3, AWS Amplify, AWS Elastic Beanstalk</p>
                 <p>
                   <strong>Employee Manager Full-Stack Web Application</strong> 
                 </p>
                 <p className="left-center">Full-stack web application that enables administrators to efficiently manage employee records. Users can add, edit, and delete employee information, including name, last name, position, salary, ID number, hire date, and profile image. The platform streamlines workforce management by combining secure data handling with a user-friendly interface, ensuring both functionality and ease of use.</p>
-                 <a href="https://empmng.com" target="_blank">Live Demo</a>
+                <a href="https://github.com/albertochan81/empmng_frontend" target="_blank">Github Repository</a>
+                {/* 
+                 <a href="https://empmng.com" target="_blank">Live Demo</a>*/}
                 <hr/>
 
                 <h3>Hunger Box (May 2023)</h3>
