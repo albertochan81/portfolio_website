@@ -43,10 +43,10 @@ function Resume() {
             <section>
                 <h2>Certifications</h2>
                 <ul>
-                    <a href="https://www.credly.com/earner/earned/badge/b46d4159-0416-4411-97f4-33ddfb8b24de">
+                    <a href="https://www.credly.com/badges/2fa2af4b-013b-408c-8e4a-cd58a05e52ce">
                     <p className="logoText"><img className='logo'  src= 'https://github.com/albertochan81/portfolio_website/blob/main/public/Images/AWSlogo.png?raw=true'/> 
                     <strong>  AWS Cloud Practitioner Certification</strong> </p></a>
-                    <a href="https://www.credly.com/earner/earned/badge/00abdbe2-7384-4082-9eeb-31c476047843">
+                    <a href="https://www.credly.com/badges/00abdbe2-7384-4082-9eeb-31c476047843">
                     <p className="logoText"><img className='logo' src= 'https://raw.githubusercontent.com/albertochan81/portfolio_website/85feac7504ffd5a21936a985e342d3629052368e/public/Images/A+.svg'/> 
                     <strong>  CompTIA A+ Certification</strong></p></a>
                 </ul>
@@ -56,6 +56,20 @@ function Resume() {
 
             <section>
                 <h2>Employment History</h2>
+
+                    <h3>IT Helpdesk Coordinator - Animal Care Centers of NYC</h3>
+                    <p><strong>Location:</strong> New York City Metropolitan Area <br/><strong>June 2026 - Present</strong></p>
+
+                    <ul>
+                        <li>Provide IT support across multiple Animal Care Centers locations throughout New York City.</li> <br/>
+                        <li>Administer Active Directory, including user account creation, access management, and security permissions.</li> <br/>
+                        <li>Manage Microsoft 365 services, including Exchange Online, Outlook, and Microsoft Teams.</li> <br/>
+                        <li>Troubleshoot hardware, software, networking, and system issues for end users.</li> <br/>
+                        <li>Support database administration, data integrity, reporting, and system maintenance.</li> <br/>
+                        <li>Configure and maintain computers, printers, mobile devices, and other IT equipment.</li> <br/>
+                        <li>Collaborate with staff and vendors to ensure reliable and secure technology operations.</li>
+                    </ul>
+                    <hr className="job-separator"/>
 
                     <h3>Airport Systems Support Technician - ServiceTec International Inc.</h3>
                     <p><strong>Location:</strong> JFK Airport, Jamaica, NY <br/><strong>July 2025 - Present</strong></p>
